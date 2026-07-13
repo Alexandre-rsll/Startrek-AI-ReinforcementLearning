@@ -1,0 +1,3 @@
+policy: random
+episodes: 200
+seed: 0
